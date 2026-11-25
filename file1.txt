@@ -1,1 +1,1 @@
-Linux concepts
+Welcome to Linux and DevOps concepts
